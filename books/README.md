@@ -1,5 +1,5 @@
 # Web Scrapper
-This is a Web Scrapper Starter project
+This is the beginning of my web scrapping journey
 
 ## Getting Started
 The following instruction will help you set up the project as a developer.
